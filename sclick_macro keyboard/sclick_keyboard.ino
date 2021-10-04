@@ -155,7 +155,7 @@ void loop()  // Start of loop
   // Print text:
  
  //display.setCursor(30, 30);  // (x,y)
- //display.println("TESTIS");
+ //display.println("TESTOVI");
 
   // Draw triangle:
   //display.drawTriangle(0,0,   0,63,   128,63, WHITE);  // Draw triangle. X, Y coordinates for three corner points defining the triangle, followed by a color
